@@ -113,14 +113,4 @@ Arrays.sort(frutas); // Ordena alfabeticamente
 // frutas = {"banana", "maça", "uva"}
 ```
 
------
 
-## Contribuindo
-
-Sinta-se à vontade para adicionar mais exemplos ou aprimorar as explicações.
-
-1.  Faça um fork do repositório.
-2.  Crie uma nova branch (`git checkout -b nova-funcionalidade`).
-3.  Faça suas alterações e commit (`git commit -m 'Adiciona funcionalidade X'`).
-4.  Envie para a branch (`git push origin nova-funcionalidade`).
-5.  Abra um Pull Request.
