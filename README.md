@@ -1,6 +1,3 @@
-Com certeza\! Aqui está o conteúdo do repositório focado apenas em Java e com texto direto ao ponto:
-
------
 
 # Funcionalidades de Arrays em Java
 
